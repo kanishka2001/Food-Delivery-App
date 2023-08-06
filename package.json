@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "next": "^13.4.12",
+    "react-countdown": "^2.3.5"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
